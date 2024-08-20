@@ -17,18 +17,6 @@ print("------------")
 print("\n")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 '''
     Criar um sistema para receber o nome, idade, peso, altura
     Converter a idade para receber somente números inteiros
