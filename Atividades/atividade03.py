@@ -20,3 +20,8 @@ print(f'O resultado da multiplicação foi: {mult}')
 print(f'O resultado da divisão foi: {divi:.2f}')
 print('-----------------')
 print("\n")
+'''
+   Crie um sistema onde o usuário irá inserir dois valores, guarde cada valor em variáveis, 
+    em seguida vocês irão realizar as 4 operações básicas de matemática (+; -; *, /) e mostrar esses 
+    resultados na tela, também concatenados a um texto indicativo de cada operação.
+'''

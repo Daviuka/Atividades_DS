@@ -21,3 +21,10 @@ print('-----------------')
 print(f'O resultado da soma foi: {soma}')
 print('-----------------')
 print("\n")
+
+'''
+    Crie um sistema que receba o nome do usuário, a idade só podendo aceitar numero inteiro, 
+    em seguida mostre o nome e idade do usuário e peça que ele digite 2 números para que sejam somados. 
+    Mostrar por último a soma realizada para o usuário.
+
+'''
