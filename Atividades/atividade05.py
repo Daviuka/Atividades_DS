@@ -9,5 +9,4 @@ print('-----------------')
 # FIXME:Operadoes matemático
 soma = num1 + num2
 
-print(f'O números digitados são: {num1} e {num2}')
-print(f'O resultado da soma foi: {soma}')
+print(f'O resultado da soma dos dois números digitados são: {soma}')
